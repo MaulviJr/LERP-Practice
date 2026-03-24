@@ -6,7 +6,7 @@ const tValueDisplay = document.getElementById('t-value');
 // 1. Define the Shapes (Using our exact matrix coordinates)
 // Note: Inverting Y because Canvas Y goes down, but Math Y goes up!
 const shapeA = [
-    { x: 2, y: -1 }, 
+    { x: 1, y: -1 }, 
     { x: -1, y: -1 }, 
     { x: -1, y: 1 }, 
     { x: 1, y: 1 }
